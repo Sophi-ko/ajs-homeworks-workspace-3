@@ -1,0 +1,31 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "keywords": [
+    "game"
+  ],
+  "homepage": "https://github.com/Sophi-ko/ajs-homeworks-workspace-3#readme",
+  "bugs": {
+    "url": "https://github.com/Sophi-ko/ajs-homeworks-workspace-3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sophi-ko/ajs-homeworks-workspace-3.git"
+  },
+  "license": "ISC",
+  "author": "Sophi-ko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^2.1.1",
+    "@stylistic/eslint-plugin-js": "^4.4.1",
+    "eslint": "^10.13.0",
+    "globals": "^17.13.0"
+  }
+}
